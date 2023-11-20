@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Payal
+- 👀 I’m interested in Web Development and UI/UX
+- 🌱 I’m currently learning Bachelors of Science in Computer Science
+- 💞️ I’m looking to collaborate on Web Projects
+- 📫 How to reach me payalkanj@gmail.com
